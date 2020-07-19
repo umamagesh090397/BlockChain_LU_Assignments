@@ -1,0 +1,31 @@
+1)What is your understanding of blockchain ?
+
+           Blockchain is a ledger of transactions that have a copy of that transactions and is distributed over a entire network of computer systems on blockchain.
+We cant able to update or change the recorded informations,hack or cheat the systems.
+
+2)What is the core problem blockchain trying to solve?
+          
+		  1) Blockchain helps us to solve the issue of data security and trust by making the ledger public. 
+		  2) Authenticity
+		  3  Verification.
+		  
+3) What is the features blockchain will give?
+      
+	      1) Immutability
+		  2) Decentralized Technology
+		  3) Enhanced Security
+		  4) Tamper-proof
+		  5) Data transparency
+		  6) Distributed Ledgers
+		  
+4) What all things does a block contain ?
+ 
+          Block contains a Block number, Transaction records, Previous records hash key and mining key.
+
+5) How is the verifiability of blockchain has been attained ?
+ 
+          The transaction is based on distribution database, which prevents data loss from any of the systems. If the data changes in one block, then it should be changed on the other blocks too. SO the verifiability can be attained by this technique
+		  
+		  Previous hash + New data = New hash
+		  
+
